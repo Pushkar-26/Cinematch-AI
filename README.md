@@ -43,7 +43,8 @@ The system analyzes movie metadata such as genres, cast, keywords, and movie des
 
 ## 📷 Project Preview
 
-<img width="100%" alt="Cinematch Preview" src="https://drive.google.com/file/d/1p2Qx2aDGv0hJuS0zUV3suEYrAgGEYFt3/view?usp=sharing">
+<img width="100%" alt="Cinematch Preview" src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f754b121-f37f-4357-a663-72f7eaae514f" />
+">
 
 ---
 
